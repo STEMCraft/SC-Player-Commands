@@ -1,5 +1,5 @@
-name: SC-Template
+name: SC-PlayerCommands
 version: '1.0'
-main: com.stemcraft.Template
+main: com.stemcraft.PlayerCommands
 api-version: '1.21'
 depend: [STEMCraftLib]

@@ -1,8 +1,6 @@
 package com.stemcraft;
 
-import com.stemcraft.STEMCraftPlugin;
-
-public class Template extends STEMCraftPlugin {
+public class PlayerCommands extends STEMCraftPlugin {
     @Override
     public void onEnable() {
         super.onEnable();
