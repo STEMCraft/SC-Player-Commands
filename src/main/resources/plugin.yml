@@ -1,0 +1,5 @@
+name: SC-Template
+version: '1.0'
+main: com.stemcraft.Template
+api-version: '1.21'
+depend: [STEMCraftLib]
